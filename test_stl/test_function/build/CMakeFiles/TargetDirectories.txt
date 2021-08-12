@@ -1,3 +1,0 @@
-/var/fpwork/dmeng/source_codes/test_stl/test_function/build/CMakeFiles/rebuild_cache.dir
-/var/fpwork/dmeng/source_codes/test_stl/test_function/build/CMakeFiles/testFunction.dir
-/var/fpwork/dmeng/source_codes/test_stl/test_function/build/CMakeFiles/edit_cache.dir
