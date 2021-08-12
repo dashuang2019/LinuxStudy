@@ -1,0 +1,1 @@
+/opt/gcc/x86_64/9.2.0a/bin/gcc  -isystem /var/fpwork/dmeng/1866/sdk5g/prefix_root_NATIVE-gcc/usr/include   -L/var/fpwork/dmeng/1866/sdk5g/prefix_root_NATIVE-gcc/lib -Wl,-rpath,/var/fpwork/dmeng/1866/sdk5g/prefix_root_NATIVE-gcc/lib CMakeFiles/main.dir/main.c.o  -o main  -lhello 

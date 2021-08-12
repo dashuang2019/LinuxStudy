@@ -1,0 +1,1 @@
+/opt/gcc/x86_64/8.3.0a/bin/g++  -isystem /var/fpwork/dmeng/5GNB/sdk5g/prefix_root_NATIVE-gcc/usr/include   -L/var/fpwork/dmeng/5GNB/sdk5g/prefix_root_NATIVE-gcc/lib -Wl,-rpath,/var/fpwork/dmeng/5GNB/sdk5g/prefix_root_NATIVE-gcc/lib CMakeFiles/BubbleSort.dir/src/BubbleSort.cpp.o CMakeFiles/BubbleSort.dir/src/main.cpp.o  -o BubbleSort 

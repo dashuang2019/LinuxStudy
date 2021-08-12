@@ -1,0 +1,1 @@
+/opt/gcc/x86_64/9.2.0a/bin/gcc -fPIC -isystem /var/fpwork/dmeng/gnb19b/sdk5g/prefix_root_NATIVE-gcc/usr/include  -L/var/fpwork/dmeng/gnb19b/sdk5g/prefix_root_NATIVE-gcc/lib -Wl,-rpath,/var/fpwork/dmeng/gnb19b/sdk5g/prefix_root_NATIVE-gcc/lib -shared -Wl,-soname,libhello.so -o ../build/bin/libhello.so CMakeFiles/hello.dir/hello.c.o 

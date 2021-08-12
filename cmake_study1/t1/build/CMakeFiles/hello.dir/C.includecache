@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/var/fpwork/dmeng/cmake_study/t1/func.c
+stdio.h
+-
+
+/var/fpwork/dmeng/cmake_study/t1/main.c
+stdio.h
+-
+

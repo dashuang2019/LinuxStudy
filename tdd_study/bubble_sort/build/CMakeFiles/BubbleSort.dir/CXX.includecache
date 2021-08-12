@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/BubbleSort.hpp
+
+/var/fpwork/dmeng/tdd_study/bubble_sort/src/BubbleSort.cpp
+cstdlib
+-
+BubbleSort.hpp
+/var/fpwork/dmeng/tdd_study/bubble_sort/src/BubbleSort.hpp
+

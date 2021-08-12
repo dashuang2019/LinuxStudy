@@ -1,0 +1,13 @@
+/var/fpwork/dmeng/cmake_study/t2/build/CMakeFiles/install/strip.dir
+/var/fpwork/dmeng/cmake_study/t2/build/CMakeFiles/install/local.dir
+/var/fpwork/dmeng/cmake_study/t2/build/CMakeFiles/edit_cache.dir
+/var/fpwork/dmeng/cmake_study/t2/build/CMakeFiles/rebuild_cache.dir
+/var/fpwork/dmeng/cmake_study/t2/build/CMakeFiles/list_install_components.dir
+/var/fpwork/dmeng/cmake_study/t2/build/CMakeFiles/install.dir
+/var/fpwork/dmeng/cmake_study/t2/build/bin/CMakeFiles/install/strip.dir
+/var/fpwork/dmeng/cmake_study/t2/build/bin/CMakeFiles/install/local.dir
+/var/fpwork/dmeng/cmake_study/t2/build/bin/CMakeFiles/hello.dir
+/var/fpwork/dmeng/cmake_study/t2/build/bin/CMakeFiles/edit_cache.dir
+/var/fpwork/dmeng/cmake_study/t2/build/bin/CMakeFiles/rebuild_cache.dir
+/var/fpwork/dmeng/cmake_study/t2/build/bin/CMakeFiles/install.dir
+/var/fpwork/dmeng/cmake_study/t2/build/bin/CMakeFiles/list_install_components.dir
