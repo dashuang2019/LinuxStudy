@@ -1,0 +1,3 @@
+/var/fpwork/dmeng/source_codes/test_template/template_function/build/CMakeFiles/rebuild_cache.dir
+/var/fpwork/dmeng/source_codes/test_template/template_function/build/CMakeFiles/TemplateFunction.dir
+/var/fpwork/dmeng/source_codes/test_template/template_function/build/CMakeFiles/edit_cache.dir

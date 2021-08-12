@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/var/fpwork/dmeng/source_codes/test_stl/test_function/main.cpp
+iostream
+-
+vector
+-
+list
+-
+map
+-
+set
+-
+string
+-
+algorithm
+-
+functional
+-
+memory
+-
+
